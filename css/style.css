@@ -32,7 +32,7 @@ p {
 
 .principal {
     margin: 20px;
-    background-image: url("/img/love.jpg");
+    background-image: url(../img/love.jpg);
   }
 
 .encabezado {
