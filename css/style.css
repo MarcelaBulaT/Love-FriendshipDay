@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    background-color: #efa0a6;
+
+}
+
+h1 {
+    color:white;
+    font-size: 60px;
+
+}
+
+h2 {
+    font-size: 35px;
+    color: rgb(238, 45, 119);
+
+}
+
+.fa-truck, .fa-edit {
+    color: white;
+}
+p {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.principal {
+    margin: 20px;
+    background-image: url("/img/love.jpg");
+  }
+
+.encabezado {
+    text-align: center;
+    margin: 0 auto;
+    background-color: #efa0a6;
+    width: 60%;
+}
+  
+  .gallery {
+    text-align: center;
+}
+
+table {
+    width: 60%;
+    align-items: center;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.87);
+  }
+
+table:hover {
+    border: 5px solid rgb(255, 255, 255);
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+}
+
+img:hover {
+    transform:scale(1.25);
+}
+
+.author {
+    text-align: right;
+    color: rgb(238, 45, 119);
+}
+  
